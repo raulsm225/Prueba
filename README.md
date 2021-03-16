@@ -2,5 +2,7 @@ Prueba
 Este es el resultado
 <<<<<<< HEAD
 =======
-Prueba 3 
+Prueba 1 
 >>>>>>> main
+
+
